@@ -1,0 +1,8 @@
+ThinkPad X1 Carbon Gen 11
+SPECS:
+- Intel Evo Core i7-1365U
+- Intel Iris Xe Graphics
+- 16/32GB LPDDR5-6400 RAM
+- 14" 2.8K OLED (2880 x 1800) 100% DCI P3
+- 1/2TB SSD M.2 2280 PCIe 4.0x4 NVMe
+- Rp. 34.299.000

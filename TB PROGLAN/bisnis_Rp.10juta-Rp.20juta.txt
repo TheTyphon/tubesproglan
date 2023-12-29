@@ -1,0 +1,8 @@
+Lenovo Yoga Pro 7i (2023)
+SPECS:
+- Intel EVO Core i7-13700H
+- Intel Iris Xe Graphics
+- 16GB LPDDR5-5200 RAM
+- 14.5" 2.5K IPS (2560 x 1600) 100%sRGB 90Hz
+- 512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+- Rp. 16.199.000
